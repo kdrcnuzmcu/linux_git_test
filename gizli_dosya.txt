@@ -1,0 +1,5 @@
+Merhaba dünya!
+
+Bu bir gizli dosyadır.
+
+.gitignore deneme amacıyla oluşturulmuştur.
